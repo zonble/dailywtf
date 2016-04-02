@@ -7,3 +7,4 @@
 * [系統時間](0005/README.md)
 * [Growth Hacking](0006/README.md)
 * [如何成為中階主管](0007/README.md)
+* [清帆的方法論](0008/README.md)
